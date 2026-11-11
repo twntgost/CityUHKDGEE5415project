@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        只保留被 AndroidManifest 的 android:label 引用的 app_name。
+        其余界面文案全部走 core 的 Key 枚举（中英双语），这里不再放文案——
+        2026-10-11 之前的 39 条原型字符串已删除（代码零引用）。
+    -->
+    <string name="app_name">HR还债模拟器</string>
+</resources>

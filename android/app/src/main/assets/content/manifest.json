@@ -1,0 +1,33 @@
+{
+  "contentVersion": "story-v4-i18n",
+  "rulesVersion": "3.0",
+  "contentHash": "cc1f1bdf80b81e5af4e968387e48a55767a46e6eb57b762f92395c4bd9e610f9",
+  "files": {
+    "zh": {
+      "name": "month1.json",
+      "sha256": "0914eef05476b3ab832fe25a1eef5009e46500ba1765aaf535669fc45ee4cca8",
+      "bytes": 1805641
+    },
+    "en": {
+      "name": "month1.en.json",
+      "sha256": "64fc093b6b61609f165bc9af0d9e5b191908a9890f44015b970615d27b3b7f2d",
+      "bytes": 1970560
+    }
+  },
+  "betting": {
+    "zh": {
+      "name": "betting.json"
+    },
+    "en": {
+      "name": "betting.en.json"
+    }
+  },
+  "monthIndex": -1,
+  "workdayCount": 252,
+  "candidateCount": 504,
+  "notes": [
+    "252 个工作日、504 份简历、504 条新闻。",
+    "contentHash 保留原内容包身份；文件 SHA256 独立校验中英文文案。",
+    "造假类型收敛为背景造假/项目造假两类（v3）。"
+  ]
+}

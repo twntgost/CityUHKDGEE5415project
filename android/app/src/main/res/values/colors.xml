@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Window backdrop only; the real palette lives in ui/theme/Color.kt. -->
+    <color name="paper">#F8F7F4</color>
+    <color name="ink900">#1A1B1F</color>
+</resources>

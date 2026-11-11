@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Compose drives the real theme; this only controls the activity window
+         before setContent so the splash matches the Compose colors. -->
+    <style name="Theme.HRPayDebt" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor" tools:targetApi="l">#F8F7F4</item>
+        <item name="android:navigationBarColor" tools:targetApi="l">#F8F7F4</item>
+        <item name="android:windowBackground">@color/paper</item>
+    </style>
+</resources>
